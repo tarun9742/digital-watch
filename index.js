@@ -1,7 +1,3 @@
-// let hrs = document.getElementById("demo").value;
-// let min = document.getElementById("min").value;
-// let sec = document.getElementById("sec").value;
-
 function fun1() {
   var date = new Date();
 
