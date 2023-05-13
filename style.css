@@ -1,0 +1,33 @@
+body{
+  background-color: rgb(156, 245, 186);
+  
+}
+#watch{
+  width: 800px;
+  height: 300px;
+  background-color: rgb(96, 180, 169);
+  padding-top: 50px;
+  margin-top: 20vh;
+  border-radius: 20px;
+  
+}
+#watch-display{
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+  height: 100px;
+  background-color: #fff;
+  border-radius: 15px;
+  text-align: center;
+  font-size: large;
+   font-weight: 700;
+   font-size: 60px;
+   margin-top: 30px;
+   /* margin-left: 200px; */
+   
+  
+}
+h1{
+  text-align: center;
+  color: yellow;
+}
